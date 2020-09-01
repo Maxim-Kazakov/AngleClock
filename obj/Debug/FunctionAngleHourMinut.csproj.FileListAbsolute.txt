@@ -1,0 +1,7 @@
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\obj\Debug\FunctionAngleHourMinut.csprojAssemblyReference.cache
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\obj\Debug\FunctionAngleHourMinut.csproj.CoreCompileInputs.cache
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\bin\Debug\FunctionAngleHourMinut.exe.config
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\bin\Debug\FunctionAngleHourMinut.exe
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\bin\Debug\FunctionAngleHourMinut.pdb
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\obj\Debug\FunctionAngleHourMinut.exe
+C:\Users\castr\Desktop\C#\Programms\AngleHourMinut\FunctionAngleHourMinut\FunctionAngleHourMinut\obj\Debug\FunctionAngleHourMinut.pdb
